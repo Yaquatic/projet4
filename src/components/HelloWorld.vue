@@ -29,7 +29,7 @@
       </li>
       <li>
         <a
-          href="https://twitter.com/vuejs"
+          href="https://www.facebook.com/anthony.cattin.3"
           target="_blank"
         >
           Twitter
