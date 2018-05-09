@@ -1,6 +1,21 @@
 # projet4
 
-> A Vue.js project
+> Un projet pour le cours OC d'informatique
+
+## Présentation du projet4
+
+### Sujet du projet
+Site qui a pour but de donner faim
+
+-> Donnez faim à vos amis en leur montrant les plus belles photos de repas trouvées sur internet !
+
+### Répartition des tâches
+
+Giorgio: CSS/HTML
+
+Anthony: Rédaction, recherche de contenu et de sources
+
+Thibault: JavaScript
 
 ## Build Setup
 
