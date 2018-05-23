@@ -1,14 +1,14 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
+    <h2>Salé</h2>
     <ul>
       <li>
         <a
           href="/plat"
           target="_blank"
         >
-          Plats
+          Tous les repas salés
         </a>
       </li>
       <li>
@@ -29,54 +29,54 @@
       </li>
       <li>
         <a
-          href="https://www.facebook.com/anthony.cattin.3"
+          href="/Pâtes"
           target="_blank"
         >
-          Facebook
+          Pâtes
         </a>
       </li>
       <br>
       <li>
         <a
-          href="http://vuejs-templates.github.io/webpack/"
+          href="/Salt"
           target="_blank"
         >
-          Docs for This Template
+           Autres repas salés
         </a>
       </li>
     </ul>
-    <h2>Ecosystem</h2>
+    <h2>Sucré</h2>
     <ul>
       <li>
         <a
-          href="http://router.vuejs.org/"
+          href="/Patisseries"
           target="_blank"
         >
-          vue-router
+          Tous les repas sucrés
         </a>
       </li>
       <li>
         <a
-          href="http://vuex.vuejs.org/"
+          href="/Chocolat"
           target="_blank"
         >
-          vuex
+          Chocolat
         </a>
       </li>
       <li>
         <a
-          href="http://vue-loader.vuejs.org/"
+          href="/Gâteau"
           target="_blank"
         >
-          vue-loader
+          Gâteaux
         </a>
       </li>
       <li>
         <a
-          href="https://github.com/vuejs/awesome-vue"
+          href="Sweet"
           target="_blank"
         >
-          awesome-vue
+          Autres repas sucrés
         </a>
       </li>
     </ul>
