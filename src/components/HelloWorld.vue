@@ -5,26 +5,26 @@
     <ul>
       <li>
         <a
-          href="https://vuejs.org"
+          href="/plat"
           target="_blank"
         >
-          Core Docs
+          Plats
         </a>
       </li>
       <li>
         <a
-          href="https://forum.vuejs.org"
+          href="/Poissons"
           target="_blank"
         >
-          Forum
+          Poissons
         </a>
       </li>
       <li>
         <a
-          href="https://chat.vuejs.org"
+          href="/Viande"
           target="_blank"
         >
-          Community Chat
+          Viande
         </a>
       </li>
       <li>
