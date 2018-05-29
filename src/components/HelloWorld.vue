@@ -1,20 +1,43 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Salé</h2>
+    <h5>Tu as faim mais préfères regarder des images de ce que tu souhaites manger car tu aimes bien te faire souffrir psychologiquement ? Et bien tu es le public visé par ce site ! Tu te dis forcément : “Mais... un site avec des images qui proviennent d’autres sites, c’est ultra moisi, non ? Et surtout pas très original ? Vous allez vous faire attaquer en justice pour plagiat, hein ? HEIN ?”
+Sois rassuré jeune “hater”, ou “détesteur”, comme on dit en français. Tu peux d’abord être sûr que tu ne trouveras pas beaucoup d’autres sites internet basés sur le même concept, ce qui est déjà en soit un signe d’originalité. Ensuite, tu parles de “plagiat”, mais ce serait le cas si nous nous amusions à recopier directement des informations d’oeuvres préexistantes. Or, notre travail est le même que celui d’un historien, à savoir chercher des sources diverses.
+Enfin,...  On est en 2018. Tu crois que c’est facile de trouver comme ça, en un clic, des idées originales ? TU TE RENDS COMPTE DU NOMBRE D'IDIOTIES QUI TRAINENT SUR INTERNET ? HEIN ??? Surtout, profite bien de ta venue ! Tu ne te remettras pas de cette expérience de si tôt.</h5>
+<h1>Les viandes</h1>
+         <h3>L'agneau</h3>
+         <img src="http://beauvallet.fr/wp-content/uploads/2016/07/GIGOT-AGNEAU-CUIT-e1469176835367.jpg" alt="agneau"
+         style="width:500px;height:300px;" />
+         <h3>Le porc</h3>
+         <img src="http://qccdn.ar-cdn.com/recipes/port960/173dd249-51f7-49b1-ad8f-3fc4f89aa445.jpg" alt="agneau"
+         style="width:500px;height:300px;" />
+         <h1>Les poissons</h1>
+         <h3>Les perches</h3>
+         <img src="https://realdeals.ch/media/catalog/product/cache/6/image/9df78eab33525d08d6e5fb8d27136e95/2/0/2015_11_09_restaurant_du_prieur__salade_verte_filet_de_perche_.jpg" alt="perche"
+         style="width:500px;height:300px;" />
+         <h3>Le saumon</h3>
+          <img src="https://d1doqjmisr497k.cloudfront.net/-/media/ducrosfr-2016/recipes/2000/saumon_a_l_origan_cuit_en_papillote_2000.ashx?vd=20160607T035231Z&hash=C90121A11EA1BB82406152E4C3A8584BF9F6B871" alt=""
+         style="width:500px;height:300px;" />
+         <h3>La truite</h3>
+          <img src="https://www.rachellebery.ca/wp-content/uploads/2018/02/Truite-four-560x370-BS008657-PUB-76307.jpg" alt=""
+         style="width:500px;height:300px;" />
+         <h1>Le sucré</h1>
+         <h3>Le chocolat</h3>
+          <img src="https://img.myswitzerland.com/mys/n64549/images/buehne/chocolat.jpg" alt=""
+         style="width:500px;height:300px;" />
+         <h3>Les crêpes</h3>
+          <img src="https://image.afcdn.com/recipe/20140103/349_w1024h768c1cx1608cy1028.jpg" alt=""
+         style="width:500px;height:300px;" />
+         <h2>Salé</h2>
     <ul>
       <li>
-        <a
-          href="/plat"
-          target="_blank"
-        >
+        <a href="/plat">
           Tous les repas salés
         </a>
       </li>
       <li>
         <a
           href="/Poissons"
-          target="_blank"
         >
           Poissons
         </a>
@@ -22,7 +45,6 @@
       <li>
         <a
           href="/Viande"
-          target="_blank"
         >
           Viande
         </a>
@@ -30,7 +52,6 @@
       <li>
         <a
           href="/Pâtes"
-          target="_blank"
         >
           Pâtes
         </a>
@@ -39,7 +60,6 @@
       <li>
         <a
           href="/Salt"
-          target="_blank"
         >
            Autres repas salés
         </a>
@@ -50,7 +70,6 @@
       <li>
         <a
           href="/Patisseries"
-          target="_blank"
         >
           Tous les repas sucrés
         </a>
@@ -58,15 +77,13 @@
       <li>
         <a
           href="/Chocolat"
-          target="_blank"
         >
           Chocolat
         </a>
       </li>
       <li>
         <a
-          href="/Gâteau"
-          target="_blank"
+          href="/Gâteaux"
         >
           Gâteaux
         </a>
@@ -74,15 +91,20 @@
       <li>
         <a
           href="Sweet"
-          target="_blank"
         >
           Autres repas sucrés
         </a>
       </li>
-    </ul>
+      <li>
+        <a
+          href="HelloWorld"
+        >
+         Retour à la page d'acceuil
+        </a>
+      </li>
+         </ul>
   </div>
 </template>
-
 <script>
 export default {
   name: 'HelloWorld',
